@@ -97,8 +97,8 @@ game = [[0, 0, 0],
 
 print("Happy game!")
 
-player1 = "Leonardo" #input("Player1 please insert your name: ")
-player2 = "Noemi" #input("Player2 please insert your name: ")
+player1 = input("Player1 please insert your name: ")
+player2 = input("Player2 please insert your name: ")
 
 draw_board(game)
 
